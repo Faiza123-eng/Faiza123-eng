@@ -2,7 +2,7 @@
 <h3 align="center">Software Engineer | MERN & Django Developer | AI Explorer</h3>
 
 <p align="center">
-  <img src="https://github.com/Faiza123-eng/Faiza123-eng/blob/main/banner.png" alt="Banner" />
+  <img src="https://github.com/Faiza123-eng/Faiza123-eng/blob/main/Faiza.png" alt="Banner" />
 </p>
 
 ---
@@ -26,24 +26,24 @@
 
 ### 📌 Featured Projects
 
+#### 💬 [IntellectPrep](https://github.com/Faiza123-eng/IntellectPrep)
+> AI Interview Prep Platform that generates DSA questions, conducts mock interviews, and tracks user performance.
+
+#### 🐞 [Bug Tracker](https://github.com/Faiza123-eng/Bug-Tracker)
+> Full-stack issue tracking system with secure access, ticket management, and real-time updates.
 #### 🔔 [PulseBoard](https://github.com/Faiza123-eng/pulseBoard)
 > Real-time notification system with Django + Next.js + PubNub. Think of it as a plug-and-play notification engine for social apps or dashboards.
 
 #### 🧠 [HeartHeard](https://github.com/Faiza123-eng/HeartHeard)
 > AI-powered mental health support platform. Uses NLP for emotional detection and offers virtual therapy guidance.
 
-#### 💬 [IntellectPrep](https://github.com/Faiza123-eng/IntellectPrep)
-> AI Interview Prep Platform that generates DSA questions, conducts mock interviews, and tracks user performance.
-
-#### 🐞 [Bug Tracker](https://github.com/Faiza123-eng/Bug-Tracker)
-> Full-stack issue tracking system with secure access, ticket management, and real-time updates.
 
 ---
 
 ### 📫 Let’s Connect
 - 💌 Email: [faizaashfaque7@gmail.com](mailto:faizaashfaque7@gmail.com)
 - 💼 LinkedIn: [linkedin.com/in/faizaashfaq](https://linkedin.com/in/faizaashfaq)
-- 💻 Portfolio: Coming Soon (or add Netlify link)
+- 💻 Portfolio: Coming Soon 
 - 📊 LeetCode: [FaizaAshfaq](https://leetcode.com/your-username)  
 - 📘 GfG: [FaizaAshfaq](https://geeksforgeeks.org/your-profile)
 
