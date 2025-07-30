@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Faiza Ashfaq</h1>
 <h3 align="center">Software Engineer | MERN & Django Developer | AI Explorer</h3>
 
-<p align="center">
-  <img src="https://github.com/Faiza123-eng/Faiza123-eng/blob/main/Faiza.png" alt="Banner" />
-</p>
 
 ---
 
