@@ -25,7 +25,7 @@ const faiza = {
   currentlyLearning: "Advanced AI Integration with Full-Stack",
   funFact: "I turn coffee into code and ideas into reality! ☕→💻"
 };
-
+```
 🌱 Journey: Recent Software Engineering graduate passionate about solving real-world problems through web technologies and AI
 💼 Present: Crafting amazing user experiences as a Frontend Developer while building impactful side projects
 🚀 Future: Exploring the intersection of AI + Full-Stack development to create meaningful tools that change lives
@@ -136,4 +136,4 @@ Show Image
 </div>
 <!-- Footer Wave -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-```
+
