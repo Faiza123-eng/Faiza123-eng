@@ -66,9 +66,7 @@ const faiza = {
 <tr>
 <td width="50%">
 💬 IntellectPrep
-Show Image
 🎯 AI Interview Prep Platform
-
 🤖 Generates personalized DSA questions
 🎭 Conducts realistic mock interviews
 📈 Tracks performance analytics
@@ -77,7 +75,6 @@ Show Image
 </td>
 <td width="50%">
 🐞 Bug Tracker
-Show Image
 🎯 Full-Stack Issue Management
 
 🔐 Secure role-based access control
@@ -90,7 +87,6 @@ Show Image
 <tr>
 <td width="50%">
 🔔 PulseBoard
-Show Image
 🎯 Real-time Notification Engine
 
 ⚡ Instant notifications with PubNub
@@ -101,7 +97,6 @@ Show Image
 </td>
 <td width="50%">
 🧠 HeartHeard
-Show Image
 🎯 AI Mental Health Platform
 
 🤖 NLP-powered emotional detection
