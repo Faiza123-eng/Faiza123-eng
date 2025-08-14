@@ -25,7 +25,7 @@ const faiza = {
   passions: ["Web Development", "AI/ML", "Problem Solving"],
   currentlyLearning: "Advanced AI Integration with Full-Stack",
   funFact: "I turn coffee into code and ideas into reality! ☕→💻"
-};
+};```
 🌱 Journey: Recent Software Engineering graduate passionate about web technologies & AI
 💼 Present: Crafting amazing user experiences as a Frontend Developer
 🚀 Future: Exploring AI + Full-Stack Development for impactful solutions
