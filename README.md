@@ -33,14 +33,22 @@ const faiza = {
 <!-- Animated Skills Section -->
 🛠️ Tech Arsenal
 <div align="center">
+<div>
 Frontend Mastery
 <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,js,tailwind,bootstrap&theme=dark" alt="Frontend Skills"/>
+ </div> 
+<div align="center">
 Backend Power
 <img src="https://skillicons.dev/icons?i=nodejs,express,django,python,fastapi&theme=dark" alt="Backend Skills"/>
+</div>
+ <div align="center">
 Database Solutions
 <img src="https://skillicons.dev/icons?i=mongodb,postgresql,firebase,redis&theme=dark" alt="Database Skills"/>
+ </div>
+ <div align="center">
 AI/ML & Tools
 <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,git,github,docker,postman,jest&theme=dark" alt="AI/ML and Tools"/>
+ </div>
 </div>
 <!-- Animated GitHub Stats -->
 📊 GitHub Analytics
