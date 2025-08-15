@@ -85,7 +85,7 @@ const faiza = {
 🔥 **Tech Stack:** React, Node.js, OpenAI API, MongoDB
 
 [![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-FF6B6B?style=for-the-badge)](your-demo-link)
-[![GitHub](https://img.shields.io/badge/📁-Source%20Code-4ECDC4?style=for-the-badge)](your-github-link)
+[![GitHub](https://img.shields.io/badge/📁-Source%20Code-4ECDC4?style=for-the-badge)](https://github.com/Faiza123-eng/Intellectprep)
 
 </td>
 <td width="50%" valign="top">
@@ -107,7 +107,7 @@ const faiza = {
 🔥 **Tech Stack:** MERN Stack, Socket.io, JWT
 
 [![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-FF6B6B?style=for-the-badge)](your-demo-link)
-[![GitHub](https://img.shields.io/badge/📁-Source%20Code-4ECDC4?style=for-the-badge)](your-github-link)
+[![GitHub](https://img.shields.io/badge/📁-Source%20Code-4ECDC4?style=for-the-badge)](https://github.com/Faiza123-eng/BugTracker)
 
 </td>
 </tr>
@@ -131,7 +131,7 @@ const faiza = {
 🔥 **Tech Stack:** Django, Next.js, PubNub, Redis
 
 [![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-FF6B6B?style=for-the-badge)](your-demo-link)
-[![GitHub](https://img.shields.io/badge/📁-Source%20Code-4ECDC4?style=for-the-badge)](your-github-link)
+[![GitHub](https://img.shields.io/badge/📁-Source%20Code-4ECDC4?style=for-the-badge)](https://github.com/Faiza123-eng/pulseBoard)
 
 </td>
 <td width="50%" valign="top">
