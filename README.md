@@ -166,28 +166,123 @@ const faiza = {
 
 </div>
 
+<!-- Animated Divider Before Connect Section -->
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-<div align="center">🌐*I'm always excited to work on innovative projects that solve real-world problems! Let's connect*</div>
+<!-- Connect & Collaborate Section -->
 <div align="center">
+
+## 🌐 Let's Connect & Create Magic Together
+
+<!-- Animated Introduction Text -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&pause=800&color=6366F1&center=true&vCenter=true&width=900&height=80&lines=💫+Passionate+about+building+innovative+solutions;🚀+Always+excited+to+collaborate+on+impactful+projects;🌟+Ready+to+turn+your+ideas+into+reality!" alt="Connect Intro"/>
+</div>
+
+<!-- Premium Social Connect Cards -->
+<div align="center">
+<table>
+<tr>
+<td align="center" width="25%">
+<div>
 <a href="mailto:faizaashfaque7@gmail.com">
-  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
+<img src="https://img.shields.io/badge/💌%20Email-Let's%20Chat-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white&labelColor=FF6B6B&logoWidth=20" alt="Email"/>
 </a>
+<br>
+<sub><b>📧 Direct Communication</b></sub>
+</div>
+</td>
+<td align="center" width="25%">
+<div>
 <a href="https://linkedin.com/in/faizaashfaq">
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+<img src="https://img.shields.io/badge/🤝%20LinkedIn-Professional%20Network-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0A66C2" alt="LinkedIn"/>
 </a>
+<br>
+<sub><b>💼 Professional Networking</b></sub>
+</div>
+</td>
+<td align="center" width="25%">
+<div>
 <a href="https://leetcode.com/FaizaAshfaq">
-  <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode"/>
+<img src="https://img.shields.io/badge/🧩%20LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=white&labelColor=FFA116" alt="LeetCode"/>
 </a>
+<br>
+<sub><b>⚡ Coding Challenges</b></sub>
+</div>
+</td>
+<td align="center" width="25%">
+<div>
 <a href="https://geeksforgeeks.org/FaizaAshfaq">
-  <img src="https://img.shields.io/badge/GeeksforGeeks-298D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white" alt="GeeksforGeeks"/>
+<img src="https://img.shields.io/badge/📚%20GeeksforGeeks-Knowledge%20Hub-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white&labelColor=2F8D46" alt="GeeksforGeeks"/>
 </a>
-<br><br>
-<img src="https://komarev.com/ghpvc/?username=Faiza123-eng&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<br>
+<sub><b>🎯 Technical Learning</b></sub>
 </div>
-<!-- Call to Action -->
+</td>
+</tr>
+</table>
+</div>
+
+<!-- Animated Statistics & Engagement -->
 <div align="center">
-✨ Ready to Build Something Amazing Together?
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2000&pause=1000&color=F85D7F&center=true&vCenter=true&width=600&lines=Open+to+Frontend%2C+Backend+%26+Full-Stack+Roles;Let's+Create+Impact+Through+Code!;Always+Learning%2C+Always+Building" alt="CTA Typing SVG" />
+<br>
+
+### 📊 Community Engagement
+
+<img src="https://komarev.com/ghpvc/?username=Faiza123-eng&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+<img src="https://img.shields.io/badge/Response%20Time-Within%2024hrs-success?style=for-the-badge&logo=clock&logoColor=white" alt="Response Time" />
+<img src="https://img.shields.io/badge/Collaboration%20Rate-100%25-brightgreen?style=for-the-badge&logo=handshake&logoColor=white" alt="Collaboration Rate" />
+
 </div>
-<!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
+
+<!-- Dynamic Call-to-Action Section -->
+<div align="center">
+<br>
+
+## ✨ Ready to Build Something Extraordinary?
+
+<!-- Multi-line Animated CTA -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&duration=3000&pause=1200&color=F85D7F&center=true&vCenter=true&width=800&height=120&lines=🌟+Open+to+Frontend%2C+Backend+%26+Full-Stack+Opportunities;💡+Let's+Create+Impact+Through+Innovative+Code;🚀+Always+Learning%2C+Always+Building%2C+Always+Growing;🤝+Your+Next+Project+Partner+Awaits!" alt="CTA Typing SVG" />
+</div>
+
+<!-- Quick Action Buttons -->
+<div align="center">
+<br>
+
+[![Hire Me](https://img.shields.io/badge/🚀%20Hire%20Me-Available%20for%20Projects-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white)](mailto:faizaashfaque7@gmail.com?subject=Let's%20Work%20Together!)
+[![Collaborate](https://img.shields.io/badge/🤝%20Collaborate-Open%20Source%20Projects-4ECDC4?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Faiza123-eng)
+[![Mentorship](https://img.shields.io/badge/🎓%20Mentorship-Knowledge%20Sharing-FFD93D?style=for-the-badge&logo=graduation-cap&logoColor=black)](https://linkedin.com/in/faizaashfaq)
+
+</div>
+
+<!-- Inspirational Quote -->
+<div align="center">
+<br>
+
+### 💭 Philosophy
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=5000&pause=2000&color=6366F1&center=true&vCenter=true&width=700&lines=%22Code+is+poetry+written+in+logic%22;%22Every+bug+is+a+step+closer+to+perfection%22;%22Innovation+happens+when+passion+meets+purpose%22" alt="Philosophy Quote"/>
+
+</div>
+
+<!-- Activity Status -->
+<div align="center">
+<br>
+
+### 🎯 Current Status
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=14&duration=2500&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=🔥+Building+AI-powered+web+applications;📚+Learning+advanced+system+design;💼+Available+for+exciting+opportunities;🌱+Growing+every+single+day!" alt="Status Update"/>
+
+</div>
+
+</div>
+
+<!-- Enhanced Footer Wave with Gradient -->
+<br><br>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
+
+<!-- Final Animated Message -->
+<div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=3000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+✨;Let's+build+the+future+together+🚀" alt="Thank You Message"/>
+</div>
