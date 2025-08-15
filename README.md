@@ -26,7 +26,7 @@ const faiza = {
   funFact: "I turn coffee into code and ideas into reality! ☕→💻"
 };
 ```
-🌱 Journey: Recent Software Engineering graduate passionate about solving real-world problems through web technologies and AI
+🌱<br> Journey:</br> Recent Software Engineering graduate passionate about solving real-world problems through web technologies and AI
 💼 Present: Crafting amazing user experiences as a Frontend Developer while building impactful side projects
 🚀 Future: Exploring the intersection of AI + Full-Stack development to create meaningful tools that change lives
 <br clear="right"/>
@@ -65,7 +65,7 @@ const faiza = {
 <table>
 <tr>
 <td width="50%">
-💬 IntellectPrep
+<br>💬 IntellectPrep </br>
 🎯 AI Interview Prep Platform
 🤖 Generates personalized DSA questions
 🎭 Conducts realistic mock interviews
@@ -74,7 +74,7 @@ const faiza = {
 
 </td>
 <td width="50%">
-🐞 Bug Tracker
+<br>🐞 Bug Tracker</td>br>
 🎯 Full-Stack Issue Management
 
 🔐 Secure role-based access control
@@ -86,7 +86,7 @@ const faiza = {
 </tr>
 <tr>
 <td width="50%">
-🔔 PulseBoard
+<br>🔔 PulseBoard</td>br>
 🎯 Real-time Notification Engine
 
 ⚡ Instant notifications with PubNub
@@ -96,7 +96,7 @@ const faiza = {
 
 </td>
 <td width="50%">
-🧠 HeartHeard
+<br>🧠 HeartHeard</td></br>
 🎯 AI Mental Health Platform
 
 🤖 NLP-powered emotional detection
@@ -111,11 +111,10 @@ const faiza = {
 <!-- Coding Activity -->
 👨‍💻 Coding Journey
 <div align="center">
-🎯 Problem Solving Stats
-Show Image
+
 </div>
 <!-- Connect Section with Animation -->
-🌐 Let's Connect & Collaborate
+<div align="center">🌐 Let's Connect & Collaborate</div>
 <div align="center">
 <a href="mailto:faizaashfaque7@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
