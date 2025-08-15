@@ -166,17 +166,8 @@ const faiza = {
 
 </div>
 
-<!-- Call to Action for Projects -->
-<div align="center">
 
-### 🤝 Want to Collaborate?
-*I'm always excited to work on innovative projects that solve real-world problems!*
-
-[![Let's Connect](https://img.shields.io/badge/💌-Let's%20Build%20Together-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](mailto:faizaashfaque7@gmail.com)
-
-</div>
-<!-- Connect Section with Animation -->
-<div align="center">🌐 Let's Connect & Collaborate</div>
+<div align="center">🌐*I'm always excited to work on innovative projects that solve real-world problems! Let's connect*</div>
 <div align="center">
 <a href="mailto:faizaashfaque7@gmail.com">
   <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" alt="Email"/>
