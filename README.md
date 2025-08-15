@@ -60,56 +60,119 @@ const faiza = {
 </div>
 <!-- Animated Divider -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-🎯 Featured Projects
+# 🎯 Featured Projects
+
 <div align="center">
+
 <table>
 <tr>
-<td width="50%">
-💬 IntellectPrep 
-🎯 AI Interview Prep Platform
-🤖 Generates personalized DSA questions
-🎭 Conducts realistic mock interviews
-📈 Tracks performance analytics
-🔥 Tech: React, Node.js, OpenAI API
+<td width="50%" valign="top">
+<div align="center">
+
+### 💬 IntellectPrep
+**AI-Powered Interview Preparation Platform**
+
+</div>
+
+🎯 **What it does:**
+- 🤖 Generates personalized DSA questions using AI
+- 🎭 Conducts realistic mock interviews with feedback
+- 📈 Tracks performance analytics & progress
+- 🎓 Adapts difficulty based on user skill level
+
+💫 **Impact:** Helping developers ace technical interviews
+
+🔥 **Tech Stack:** React, Node.js, OpenAI API, MongoDB
+
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-FF6B6B?style=for-the-badge)](your-demo-link)
+[![GitHub](https://img.shields.io/badge/📁-Source%20Code-4ECDC4?style=for-the-badge)](your-github-link)
 
 </td>
-<td width="50%">
-🐞 Bug Tracker</td>
-🎯 Full-Stack Issue Management
-🔐 Secure role-based access control
-🎫 Advanced ticket management
-⚡ Real-time updates & notifications
-🔥 Tech: MERN Stack, Socket.io
+<td width="50%" valign="top">
+<div align="center">
+
+### 🐞 Bug Tracker Pro
+**Enterprise-Grade Issue Management**
+
+</div>
+
+🎯 **What it does:**
+- 🔐 Secure role-based access control system
+- 🎫 Advanced ticket lifecycle management
+- ⚡ Real-time updates & notifications
+- 📊 Comprehensive reporting dashboard
+
+💫 **Impact:** Streamlining development workflows
+
+🔥 **Tech Stack:** MERN Stack, Socket.io, JWT
+
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-FF6B6B?style=for-the-badge)](your-demo-link)
+[![GitHub](https://img.shields.io/badge/📁-Source%20Code-4ECDC4?style=for-the-badge)](your-github-link)
 
 </td>
 </tr>
 <tr>
-<td width="50%">
-🔔 PulseBoard</td>
-🎯 Real-time Notification Engine
+<td width="50%" valign="top">
+<div align="center">
 
-⚡ Instant notifications with PubNub
-🔌 Plug-and-play architecture
-📱 Perfect for social apps & dashboards
-🔥 Tech: Django, Next.js, PubNub
+### 🔔 PulseBoard
+**Real-time Notification Engine**
+
+</div>
+
+🎯 **What it does:**
+- ⚡ Instant notifications with PubNub integration
+- 🔌 Plug-and-play architecture for any app
+- 📱 Perfect for social platforms & dashboards
+- 🎨 Customizable notification templates
+
+💫 **Impact:** Enhancing user engagement through real-time communication
+
+🔥 **Tech Stack:** Django, Next.js, PubNub, Redis
+
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-FF6B6B?style=for-the-badge)](your-demo-link)
+[![GitHub](https://img.shields.io/badge/📁-Source%20Code-4ECDC4?style=for-the-badge)](your-github-link)
 
 </td>
-<td width="50%">
-🧠 HeartHeard</td>
-🎯 AI Mental Health Platform
+<td width="50%" valign="top">
+<div align="center">
 
-🤖 NLP-powered emotional detection
-💚 Virtual therapy guidance
-📊 Mood tracking & insights
-🔥 Tech: Python, TensorFlow, Flask
+### 🧠 HeartHeard
+**AI Mental Health Companion**
+
+</div>
+
+🎯 **What it does:**
+- 🤖 NLP-powered emotional state detection
+- 💚 Personalized virtual therapy guidance
+- 📊 Comprehensive mood tracking & insights
+- 🛡️ Privacy-first approach to mental health
+
+💫 **Impact:** Making mental health support accessible to everyone
+
+🔥 **Tech Stack:** Python, TensorFlow, Flask, NLP
+
+[![Live Demo](https://img.shields.io/badge/🚀-Live%20Demo-FF6B6B?style=for-the-badge)](your-demo-link)
+[![GitHub](https://img.shields.io/badge/📁-Source%20Code-4ECDC4?style=for-the-badge)](your-github-link)
 
 </td>
 </tr>
 </table>
-</div>
-<!-- Coding Activity -->
-👨‍💻 Coding Journey
+
+<!-- Animated Project Stats -->
 <div align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=3000&pause=1000&color=F85D7F&center=true&vCenter=true&width=800&lines=🚀+4+Major+Projects+%7C+100%2B+Hours+of+Development;💡+AI+Integration+%7C+Real-time+Features+%7C+Scalable+Architecture;🔥+Always+Building+Something+New...+Stay+Tuned!" alt="Project Stats" />
+</div>
+
+</div>
+
+<!-- Call to Action for Projects -->
+<div align="center">
+
+### 🤝 Want to Collaborate?
+*I'm always excited to work on innovative projects that solve real-world problems!*
+
+[![Let's Connect](https://img.shields.io/badge/💌-Let's%20Build%20Together-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](mailto:faizaashfaque7@gmail.com)
 
 </div>
 <!-- Connect Section with Animation -->
