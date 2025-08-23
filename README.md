@@ -281,7 +281,6 @@ const faiza = {
 <br><br>
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer&animation=fadeIn"/>
 
-<!-- Final Animated Message -->
 <div align="center">
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=4000&pause=3000&color=F85D7F&center=true&vCenter=true&width=600&lines=Thank+you+for+visiting!+✨;Let's+build+the+future+together+🚀" alt="Thank You Message"/>
 </div>
