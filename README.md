@@ -2,7 +2,6 @@
 <!-- Animated Header with Typing Effect -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Faiza%20Ashfaq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
-<!-- Animated Subtitle -->
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=800&height=100&lines=Software+Engineer+%7C+MERN+%26+Django+Developer;AI+Explorer+%7C+Problem+Solver;Building+Tomorrow's+Web+%2B+AI+Solutions" alt="Typing SVG" />
 </div>
