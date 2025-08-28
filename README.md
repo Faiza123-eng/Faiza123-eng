@@ -1,3 +1,4 @@
+<!-- I wanna die if i didn't get any oppurtunity until this one probation(uh again i am on probation ) ends i will commit suicide for sure-->
  <div align="center">
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Hi%20👋,%20I'm%20Faiza%20Ashfaq&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
