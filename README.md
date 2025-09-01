@@ -108,10 +108,10 @@ const faizaAshfaq = {
 
 | **Category** | **Proficiency** | **Experience** |
 |:---:|:---:|:---:|
-| 🎨 **Frontend Development** | ![90%](https://progress-bar.dev/90?color=6366F1&width=120) | 2+ Years |
-| ⚙️ **Backend Development** | ![85%](https://progress-bar.dev/85?color=10B981&width=120) | 2+ Years |
+| 🎨 **Frontend Development** | ![90%](https://progress-bar.dev/90?color=6366F1&width=120) | 1+ Years |
+| ⚙️ **Backend Development** | ![85%](https://progress-bar.dev/85?color=10B981&width=120) | 1+ Years |
 | 🤖 **AI/ML Integration** | ![75%](https://progress-bar.dev/75?color=F59E0B&width=120) | 1+ Years |
-| 🚀 **System Design** | ![70%](https://progress-bar.dev/70?color=EF4444&width=120) | 1+ Years |
+| 🚀 **System Design** | ![70%](https://progress-bar.dev/70?color=EF4444&width=120) | 6 mons |
 
 </div>
 
@@ -666,8 +666,6 @@ graph LR
 <!-- Final Enhanced Footer -->
 <div align="center" style="margin-top: 60px;">
 
-<!-- Contribution Graph -->
-<img src="https://raw.githubusercontent.com/Faiza123-eng/Faiza123-eng/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 
 <!-- Final Message -->
 <div style="margin: 30px 0;">
