@@ -305,13 +305,11 @@ const faizaAshfaq = {
 <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask"/>
 <img src="https://img.shields.io/badge/NLP-FF69B4?style=flat-square&logo=brain&logoColor=white" alt="NLP"/>
 </div>
-
 <div align="center" style="margin-top: 15px;">
 <a href="https://github.com/Faiza123-eng">
 <img src="https://img.shields.io/badge/🔗%20Explore%20Code-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
 </div>
-
 </td>
 </tr>
 </table>
