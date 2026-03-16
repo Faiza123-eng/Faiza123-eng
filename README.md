@@ -563,65 +563,9 @@ const faizaAshfaq = {
 
 </div>
 
-<!-- Fun Facts Section -->
-<div align="center" style="margin: 30px 0;">
-
-### 🎉 Fun Facts About Me
-
-<table align="center">
-<tr>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/☕-Coffee%20Lover-8B4513?style=for-the-badge" alt="Coffee"/>
-<br>
-<sub>3+ cups/day ☕</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🌙-Night%20Owl-483D8B?style=for-the-badge" alt="Night Owl"/>
-<br>
-<sub>Best code at 2 AM 🦉</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🎵-Music%20While%20Coding-FF1493?style=for-the-badge" alt="Music"/>
-<br>
-<sub>Lo-fi beats = productivity 🎧</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🔧-Debug%20Master-FF6347?style=for-the-badge" alt="Debug"/>
-<br>
-<sub>Love solving puzzles 🧩</sub>
-</td>
-<td align="center" width="20%">
-<img src="https://img.shields.io/badge/🌍-Impact%20Driven-32CD32?style=for-the-badge" alt="Impact"/>
-<br>
-<sub>Code for change 🌱</sub>
-</td>
-</tr>
-</table>
-
-</div>
-
 <!-- Weekly Development Breakdown -->
 <div align="center" style="margin: 30px 0;">
 
-### ⏰ Weekly Development Breakdown
-
-```text
-🌅 Morning (6AM-12PM)   ████████████░░░░░░░░░░░░   50% - Planning & Architecture
-🌞 Afternoon (12PM-6PM) ████████████████░░░░░░░░   70% - Core Development 
-🌙 Evening (6PM-12AM)   ████████████████████░░░░   85% - Feature Implementation
-🌃 Night (12AM-6AM)     ████████░░░░░░░░░░░░░░░░   35% - Learning & Research
-```
-
-</div>
-
-<!-- Project Timeline -->
-<div align="center" style="margin: 30px 0;">
-
-### 🗓️ Project Development Timeline
-
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=14&duration=3000&pause=800&color=6366F1&center=true&vCenter=true&width=800&lines=2023%3A+🌱+Started+journey+with+React+%26+Node.js;2024%3A+🚀+Built+IntellectPrep+%26+Bug+Tracker+Pro;2025%3A+🤖+Diving+deep+into+AI+integration;Future%3A+🌟+Building+the+next+generation+of+web+apps" alt="Timeline"/>
-
-</div>
 
 <!-- Technology Roadmap -->
 <div align="center" style="margin: 30px 0;">
