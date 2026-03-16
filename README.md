@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Premium Header with Enhanced Styling -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Faiza%20Ashfaq&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Full%20Stack%20Developer&descSize=20&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Faiza%20Ashfaq&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Front%20End%20Developer&descSize=20&descAlignY=55"/>
 
 <!-- Enhanced Typing Animation -->
 <div align="center" style="margin: 20px 0;">
