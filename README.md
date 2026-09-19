@@ -1,11 +1,11 @@
 <div align="center">
 
 <!-- Premium Header with Enhanced Styling -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20👋,%20I'm%20Faiza%20Ashfaq&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Front%20End%20Developer&descSize=20&descAlignY=55"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Hi%20,%20I'm%20Faiza%20Ashfaq&fontSize=45&fontColor=fff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20%7C%20Front%20End%20Developer&descSize=20&descAlignY=55"/>
 
 <!-- Enhanced Typing Animation -->
 <div align="center" style="margin: 20px 0;">
-  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+MERN+%26+Django+Developer+%7C+AI+Explorer;💡+Building+Tomorrow's+Web+%2B+AI+Solutions;🌟+Passionate+Problem+Solver+%26+Innovation+Driver;⚡+Turning+Coffee+into+Code+Since+2023" alt="Enhanced Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=24&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=true&width=900&height=120&lines=🚀+MERN+%26+Frontend+Developer+%7C+AI+Explorer;💡+Building+Tomorrow's+Web+%2B+AI+Solutions;🌟+Passionate+Problem+Solver+%26+Innovation+Driver;⚡+Turning+Coffee+into+Code+Since+2023" alt="Enhanced Typing SVG" />
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
